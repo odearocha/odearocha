@@ -36,11 +36,11 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
@@ -48,7 +48,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
