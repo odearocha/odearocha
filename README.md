@@ -13,7 +13,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -21,7 +21,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -29,7 +29,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -38,7 +38,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -46,7 +46,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -54,7 +54,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
